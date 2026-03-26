@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git reset:*)",
+      "Bash(git config:*)",
+      "Bash(git sparse-checkout:*)",
+      "Bash(git ls-tree:*)",
+      "WebSearch"
+    ]
+  }
+}
